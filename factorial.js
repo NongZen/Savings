@@ -5,3 +5,5 @@ function factorial(n){
     }
     return(sum)
   }
+
+export {factoriral}
