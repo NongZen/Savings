@@ -1,0 +1,5 @@
+<script src="https://[username].github.io/[repository]/[filename].[x]"></script>
+
+like this:
+
+<script src="https://NongZen.github.io/school/factorial%20function.js"></script>
