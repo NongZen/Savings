@@ -4,6 +4,4 @@ function factorial(n){
        sum = sum * i
     }
     return(sum)
-  }
-
-export {factoriral}
+}
